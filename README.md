@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -22,11 +21,11 @@ th, td {
   </tr>
   <tr>
     <td>January</td>
-    <td>$100</td>
+    <td>100Rs</td>
   </tr>
   <tr>
     <td>February</td>
-    <td>$80</td>
+    <td>80Rs</td>
   </tr>
 </table>
 
