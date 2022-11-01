@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td>January</td>
-    <td>$100</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>February</td>
-    <td>$80</td>
+    <td>50</td>
   </tr>
 </table>
 
