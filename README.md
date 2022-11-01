@@ -6,7 +6,7 @@ table, th, td {
 }
 
 th, td {
-  padding: 10px;
+  padding: 2px;
 }
 </style>
 </head>
