@@ -1,14 +1,6 @@
 <html>
 <head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
 
-th, td {
-  padding: 2px;
-}
-</style>
 </head>
 <body>
 
@@ -21,11 +13,11 @@ th, td {
   </tr>
   <tr>
     <td>January</td>
-    <td>100Rs</td>
+    <td>$100</td>
   </tr>
   <tr>
     <td>February</td>
-    <td>80Rs</td>
+    <td>$80</td>
   </tr>
 </table>
 
